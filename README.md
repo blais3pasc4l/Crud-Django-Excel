@@ -7,7 +7,7 @@ Implementar una base de datos masiva como dice que va a ser de 2.0000 usuarios e
 
 <br/>
 
-**##_Se creo un archivo y luego inicio el  proyecto en Django_**
+##**  _Se creo un archivo y luego inicio el  proyecto en Django_ **
 Se realizo los distintos modelos junto con sus respectivos despliegues para terminar creando la interfaz de usuario y administrador
 
 ### 1. $ pip install -r requirements.txt
