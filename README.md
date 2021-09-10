@@ -12,7 +12,7 @@ Se realizo los distintos modelos junto con sus respectivos despliegues para term
 
 ### 1. $ pip install -r requirements.txt
 ### 2. $ python3 manaye.py makemigrations 
-### 2. $ python manage.py runserver 
+### 2. $ python3 manage.py runserver 
 
 
 
