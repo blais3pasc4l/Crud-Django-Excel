@@ -1,6 +1,6 @@
 # Django-CRUD
 
-CRUD completo con Python, Django y una base de datos SQLite3, Manejo del front con Djano Template, que nos ofrece Django usando el patrón de arquitectura MTV (Modelo - Plantilla - Vista), el ORM de Django, el framework CSS Bootstrap y control de eventos con JavaScript. en este caso debido a problemas con la libreria Import_Export se implemento desde el front. Pero se pueden importar y exportar los diferentes archivos desde la consola del proyecto.
+CRUD completo con Python, Django y una base de datos SQLite3, Manejo del front con Djano Template, que nos ofrece Django usando el patrón de arquitectura MTV (Modelo - Plantilla - Vista), el ORM de Django, el framework CSS Bootstrap y control de eventos con JavaScript. en este caso debido a problemas con la libreria Import_Export se implemento desde el front. Pero se pueden importar y exportar los diferentes archivos desde la consola del proyecto y obtener los registros en excel.
 <br/>
 Informe Aplicación web con Django.
 Implementar una base de datos masiva con una base de datos con SQLlite. Luego crear el front de usuario del lado del front con bootstrab 
